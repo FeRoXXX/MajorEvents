@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<CityEvents>
+	<Event name="Framework Avalonia">
+		<Header>Framework Avalonia</Header>
+		<Description>Avalonia is a cross-platform UI framework for dotnet, providing a flexible styling system and supporting a wide range of Operating Systems such as Windows, Linux, macOS. Avalonia is mature and production ready. </Description>
+		<Image>Assets/events/avalonia.png</Image>
+		<Date>08.02.2023</Date>
+		<Category>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+		</Category>
+		<Price>1000₽</Price>
+	</Event>
+	<Event name="Ритмы сибири">
+		<Header>Ритмы сибири</Header>
+		<Description>
+			Автор курса – Евгений Клюев, художник, музыкант, мастер, создающий необычные музыкальные инструменты варганы (хомусы) и глюкофоны.
+
+			В рамках музыкальной мастерской ты:
+
+			познакомишься с мастером, который сам изготовляет варганы и глюкофоны;
+			изучишь теоретическую часть игры на этих волшебных инструментах;
+			разберешь базовые основы положения тела и удержания инструментов;
+			будешь много практиковаться под руководством опытного наставника;
+			научишься играть интуитивно, медитировать и уноситься от повседневных мыслей в свой собственный безграничный космос.
+			А в конце курса мы пригласим много друзей и устроим концерт!
+
+			Варган, он же хомус – древнейший из музыкальных инструментов. Названий у этой самобытной, диковинной вещи множество, и у каждой народности оно своё: комуз на Алтае, хомсус в Якутии, кубыз в Башкирии, дрымба в Украине и в Беларуси, маультроммель в Германии, миккури в Японии, кубинг на Филипинах, морчанг в Индии, в России – варган. Варган, пожалуй, единственный инструмент, использующий человека как резонатор, без человека он не звучит. И только когда соединяются вместе варган и человек, они становятся единым целым источником звучания. Издавая звук, как в окружающий, так и во внутренний мир человека, проникающий своими вибрациями в каждую клеточку, варган не только способен унести твоё сознание в глубокий транс и медитацию, но и выразить твой драйв, твою искру в ритмичной импровизации.
+
+			Глюкофон – это совсем ещё молодой перкуссионный инструмент, первые упоминания о нём относятся к 2005-2007 годам, тогда было положено начало самой идеи этого инструмента. Глюкофон – полностью интуитивный музыкальный инструмент, на нем можно играть сразу, без какого-либо музыкального образования и подготовки. В этот инструмент мастер уже заложил гармоничную тональность, где каждая нота сочетается с остальными. На нём просто невозможно сфальшивить, это и выделяет его из множества других инструментов, где нужно знать ноты. Тональность глюкофона, заложенная в каждом инструменте, определяет его звучание. Как и человек, каждый инструмент имеет свой характер, и всегда можно найти среди множества варганов именно свой.
+		</Description>
+		<Image>Assets/events/maslenica.png</Image>
+		<Date>19.03.2023</Date>
+		<Category>
+			<CategoryItem>Культура</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+		</Category>
+		<Price></Price>
+	</Event>
+	<Event name="Космодрайв">
+		<Header>Космодрайв</Header>
+		<Description>Выставка космоса для всей семьи Космодрайв</Description>
+		<Image>Assets/events/kosmodrive.png</Image>
+		<Date>02.02.2023</Date>
+		<Category>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Экскурсии</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>649₽</Price>
+	</Event>
+	<Event name="Сказка про умку">
+		<Header>Космодрайв</Header>
+		<Description>Из нашего детства белый медвежонок Умка — одно из самых ярких воспоминаний. Он добрый, наивный и конечно любознательный, как все дети. У него есть мудрая и справедливая мама, он находит себе друга — мальчика. И, безусловно, в белых льдах Арктики с ним происходят какие-то приключения.</Description>
+		<Image>Assets/events/umka.png</Image>
+		<Date>07.02.2023</Date>
+		<Category>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>124₽</Price>
+	</Event>
+	<Event name="КОРОЛЕВА ТАНЦПОЛА! ПОДЗЕМКА!">
+		<Header>КОРОЛЕВА ТАНЦПОЛА! ПОДЗЕМКА!</Header>
+		<Description>
+			В программе:
+			• FREAK  DANCE SHOW;
+			• DJ'S; MC; ФОТО; ВИДЕО;
+			• СПЕЦИАЛЬНОЕ МЕНЮ В БАРЕ;
+			• КОНКУРСЫ / ПРИЗЫ / ПОДАРКИ;
+			• ВЫБОР САМОЙ ЯРКОЙ ДЕВУШКИ НОЧИ;
+			• РОЗЫГРЫШ ЯЩИКА TARGET  COCA COLA;
+			• ХАЛЯВНЫЕ УГОЩЕНИЯ НА ВХОДЕ ПО ONLINE БИЛЕТУ;
+			• ДИДЖЕИ НЕ ТОЛЬКО ИГРАЮТ, НО И ПЬЮТ, И ТАНЦУЮТ ВМЕСТЕ С ВАМИ!
+		</Description>
+		<Image>Assets/events/disco.png</Image>
+		<Date>07.02.2023</Date>
+		<Category>
+			<CategoryItem>Вечеринки</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>500Р</Price>
+	</Event>
+	<Event name="Барнаул из Новосибирска">
+		<Header>Барнаул из Новосибирска</Header>
+		<Description>Уникальный для Сибири город, образованный как промышленный центр. Именно здесь в первой половине 18 века известный предприниматель того времени Акинфий Демидов основал медеплавильный, а затем и сереброплавильный завод.</Description>
+		<Image>Assets/events/barnaul.png</Image>
+		<Date>23.02.2023</Date>
+		<Category>
+			<CategoryItem>Экскурсии</CategoryItem>
+		</Category>
+		<Price>18000₽</Price>
+	</Event>
+	<Event name="Гонка героев">
+		<Header>Барнаул из Новосибирска</Header>
+		<Description>Гонка Героев - это крутой забег с препятствиями в твоем городе! Драйвовое приключение для каждого - ты испытаешь свои силы и поверишь, что для тебя нет ничего невозможного.</Description>
+		<Image>Assets/events/gonka.png</Image>
+		<Date>22.02.2023</Date>
+		<Category>
+			<CategoryItem>Спорт</CategoryItem>
+		</Category>
+		<Price>569₽</Price>
+	</Event>
+	<Event name="Paris Major 2023">
+		<Header>Paris Major 2023</Header>
+		<Description>Ата</Description>
+		<Image>Assets/events/hearthstone.png</Image>
+		<Date>08.05.2023 - 21.05.2023</Date>
+		<Category>
+			<CategoryItem>Спорт</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+			<CategoryItem>Для детей</CategoryItem>
+			<CategoryItem>Образование</CategoryItem>
+			<CategoryItem>Шоу</CategoryItem>
+		</Category>
+		<Price>1000$</Price>
+	</Event>
+	<Event name="Йога тренинг">
+		<Header>Йога тренин</Header>
+		<Description>Тренировки, правильное питание, реалибитация.</Description>
+		<Image>Assets/events/yoga.png</Image>
+		<Date>02.03.2023</Date>
+		<Category>
+			<CategoryItem>Образ жизни</CategoryItem>
+			<CategoryItem>Онлайн</CategoryItem>
+		</Category>
+		<Price>1024₽</Price>
+	</Event>
+</CityEvents>
